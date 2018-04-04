@@ -1,5 +1,4 @@
-.grid0container {border:1px solid red;}
+.cell {border:1px solid red; background-color:  hsla(320, 100%, 50%, 0.5);}
 
-.grid-x {border:1px solid blue;}
-
-.cell {border:1px solid green;}
+/*rgba(255, 255, 0, 0.5)*/
+.grid-container {boarder}
