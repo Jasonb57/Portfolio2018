@@ -1,4 +1,18 @@
-.cell {border:1px solid red; background-color:  hsla(320, 100%, 50%, 0.5);}
+.cell {border:1px solid red;}
+
+.grid-x {border: 1px solid blue;}
+
+.cell {border: 1px solid green;}
+
+li {color: blue;}
+
+#logo{background-color: red; background-image: url(https://placeimg.com/300/300/any);}
+
+nav>ul>li>a:link {color: red; background-color: hsla(240, 100%, 80%, 1);}
+nav>ul>li>a:link {color: red; background-color: hsla(240, 100%, 80%, 1);}
+nav>ul>li>a:hover {color: white;  background-color: hsla(240, 100%, 50%, 1);}
+nav>ul>li>a:active {color: red; background-color: hsla(240, 100%, 10%, 1);}
+nav>ul>li>a:link {color: red; background-color: hsla(240, 50%, 90%, 1);}
 
 /*rgba(255, 255, 0, 0.5)*/
-.grid-container {boarder}
+/* .grid-container {boarder} */
